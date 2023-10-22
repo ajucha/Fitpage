@@ -1,0 +1,25 @@
+.mainContainer{
+    background-color: #01131B;
+    width: 100%;
+    max-width: 420px;
+    margin: auto;
+    padding: 30px;
+    margin-top: 40px;
+}
+
+.li{
+    list-style: none;
+    color:white;
+    text-decoration: underline;
+    text-decoration-color: antiquewhite;
+    margin-bottom: 10px;
+    margin-left: -30px;
+}
+
+.li:hover{
+    text-decoration: none;
+}
+
+.ul{
+    border-bottom: 1px dotted white;
+}

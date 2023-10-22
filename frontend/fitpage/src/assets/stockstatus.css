@@ -1,0 +1,18 @@
+.mainContainerStock{
+    background-color: #01131B;
+    width: 100%;
+    max-width: 420px;
+    margin: auto;
+    padding: 30px;
+    margin-top: 40px;
+    height:300px;
+}
+
+.li-stock{
+    list-style: none;
+    color:white;
+    text-decoration: none;
+    text-decoration-color: antiquewhite;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
